@@ -1,4 +1,4 @@
-##Holden's Modified NeverSink LootFilter##
+## Holden's Modified NeverSink LootFilter ##
 
 **Based on the strict version of NeverSink's lootfilter**
 
