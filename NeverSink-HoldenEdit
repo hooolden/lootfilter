@@ -1,32 +1,10 @@
 #===============================================================================================================
-# NeverSink's Indepth Loot Filter - for Path of Exile
+# NeverSink's Indepth Loot Filter - for Path of Exile - Edited by Holden. 
 #===============================================================================================================
-# VERSION:		4.6
-# TYPE:			3-STRICT
-# STYLE:		NORMAL
-# AUTHOR:		NeverSink
-# BUILDNOTES:	Filter improved with NeverSink's Filterpolish tool (v0.3)
 
 #------------------------------------
-# LINKS TO THE LATEST VERSION / REPOSITORY:
+# CONTACT - if you want to contact the original author of the unmodified lootfilter:
 #------------------------------------
-#
-# GET THE LATEST VERSION ON: 	https://github.com/NeverSinkDev/NeverSink-Filter
-# DETAILED EXPLANATIONS: 		https://goo.gl/oQn4EN
-
-#------------------------------------
-# INSTALLATION / UPDATE :
-#------------------------------------
-#
-# 0) Please update this filter from my GitHub before each PoE league (at least every 3 month)
-# 1) Paste this file into the following folder: %userprofile%/Documents/My Games/Path of Exile
-# 2) INGAME: Escape -> Options -> UI -> Scroll down -> Select the filter from the Dropdown box
-
-#------------------------------------
-# CONTACT - if you want to get notifications about updates or just get in touch:
-#------------------------------------
-# PLEASE READ THE FAQ ON https://goo.gl/oQn4EN BEFORE ASKING QUESTIONS
-#
 # REDDIT:  NeverSinkDev
 # GITHUB:  NeverSinkDev
 # EMAIL :  NeverSinkGaming-at-gmail.com
